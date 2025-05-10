@@ -1,0 +1,2 @@
+D:/c drive/Desktop/uni/pattern design/final_project/android/app/.cxx/Debug/3z2t2o33/x86/CMakeFiles/edit_cache.dir
+D:/c drive/Desktop/uni/pattern design/final_project/android/app/.cxx/Debug/3z2t2o33/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768059102655",
+    "project_id": "wellnex-84c5e",
+    "storage_bucket": "wellnex-84c5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768059102655:android:fecac9a4f403657f3e7d0a",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HClf6qb7AoJWq2AhO4LaWu5T3afaZG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
